@@ -9,7 +9,6 @@ Full command line
 ```
 gcc main.c emission.c -o telecommande -I"C:/Program Files/Phidgets/Phidget22" -L"C:/Program Files/Phidgets/Phidget22/x86" -lphidget22
 ```
-You can also juste use the MakeFile.
 
 ## Usage
 
